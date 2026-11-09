@@ -1,0 +1,17 @@
+{
+  "python_modules": 6,
+  "original_kernel_definitions_equivalent": 23,
+  "extraction_boundary_tests_passed": 15,
+  "policy_rows_verified": 24,
+  "selection_frequency_rows_verified": 144,
+  "max_point_error": 0.0,
+  "synthetic_training_modes_passed": [
+    "general",
+    "tactile",
+    "head",
+    "general_head",
+    "tactile_head"
+  ],
+  "full_bootstrap_reexecuted": false,
+  "english_readme_and_comments": true
+}

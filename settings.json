@@ -1,0 +1,33 @@
+{
+  "methods": [
+    "S_text",
+    "S_head",
+    "F_text",
+    "F_head",
+    "G_text",
+    "G_head",
+    "T_text",
+    "T_head"
+  ],
+  "legacy_methods": [
+    "raw_prompt",
+    "raw_label",
+    "fashion_prompt",
+    "fashion_label",
+    "general_prompt",
+    "general_label",
+    "tactile_prompt",
+    "tactile_label"
+  ],
+  "partition": {
+    "split_seed": 2026102859,
+    "subset_seed": 2026102860,
+    "bootstrap_seed": 2026102861,
+    "n_subsets": 100,
+    "test_per_category": 20,
+    "budgets": [
+      8,
+      16
+    ]
+  }
+}
